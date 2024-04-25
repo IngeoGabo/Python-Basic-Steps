@@ -1,5 +1,5 @@
 # Python Basic Steps
-This in just part of the begining of my programming proces ^._.^
+This is just part of the beginning of my programming process. ^._.^
 > Note: The following lines were used to synchronize VCS with the GitHub account
 
 ## Local Repository
